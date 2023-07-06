@@ -30,7 +30,9 @@ Run it:
 ![screenshot](screenshot.gif)
 
 
-
+## Acknowlegement
+Inspiration for this came from this article: https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/
+Built upon the original python code provided by HTB user @0xButch (modified into a GET-based webshell) ~ Thank you so much!
 ---
 
 Enjoy your webshell
